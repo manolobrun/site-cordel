@@ -54,7 +54,7 @@ section.imagem{
 section.imagem>p{
     display: block;
     background-color: rgba(7, 7, 7, 0.637);
-    max-width: 300px;
+    max-width: 40%;
     padding: 20px;
     
 }
